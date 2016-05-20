@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="PostgreSQL - springorm@localhost" uuid="96a28a92-fc27-4791-9ff1-df1d7c9b8e38">
+      <secret-storage>master_key</secret-storage>
+      <schema-pattern>springorm.*</schema-pattern>
+      <default-schemas>springorm.*</default-schemas>
+    </data-source>
+  </component>
+</project>
